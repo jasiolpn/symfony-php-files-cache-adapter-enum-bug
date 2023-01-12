@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php": ">=8.1",
+    "symfony/cache": "6.2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bug\\": "src/"
+    }
+  }
+}
